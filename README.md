@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في صمت الليل أسمع نداكِ
+> روحي تسافر في سماء هواكِ
+> يا نور الفجر في عتمة الأيام
+> شوية حنان كفاية للغرام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
